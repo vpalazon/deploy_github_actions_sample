@@ -2,8 +2,8 @@
 Este repositorio está configurado para desplegarse en AWS ElasticBeanstalk y Azure Web Apps mediante GitHub Actions.
 
 Videotutoriales:
-- [Despliegue en Azure](https://youtu.be/gcWCoqO9PnQ)
-- [Despliegue en AWS](https://youtu.be/AtAwxn_yMeE)
+- [Despliegue en Azure](https://youtu.be/AtAwxn_yMeE)
+- [Despliegue en AWS](https://youtu.be/gcWCoqO9PnQ)
 
 ## Instalación de Node
 Disponible en https://nodejs.org/es/
