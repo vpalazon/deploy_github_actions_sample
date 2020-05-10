@@ -45,3 +45,4 @@ jobs:
         # Version label for new Beanstalk version
         # Zip file with the version to deploy. If skipped the action will deploy existing version.
         deployment_package: deploy.zip
+        version_label: v1.0
