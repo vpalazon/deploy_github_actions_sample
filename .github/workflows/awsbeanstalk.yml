@@ -40,9 +40,9 @@ jobs:
         # AWS Region
         region: us-east-1
         # Nombre de la aplicación creada en Beanstalk
-        application_name: testactions
+        application_name: AplicacionVicentePalazon
         # Nombre del entorno creado en Beanstalk
-        environment_name: Testactions-env
+        environment_name: AplicacionVicentePalazon-env
         # Nombre de la versión a crear en Beanstalk
         version_label: v1.0
         # Archivo con el código de la aplicación (generado en el paso anterior)
